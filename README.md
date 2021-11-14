@@ -5,10 +5,10 @@ This is used to replace uniswap.
 MAKE SURE YOU EDIT THE FOLLOWING IN THE CODE:
 1) Input your wallet address in Line 12 
 2) Input your private key in Line 72
-\
 
 
-\
+
+
 WARNING:
 
 a. IF A NOOB, USE THIS ON A METAMASK WALLET WITH MINIMAL FUNDS
