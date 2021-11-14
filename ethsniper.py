@@ -74,7 +74,7 @@ tx_token =web3.eth.send_raw_transaction(signedTransaction.rawTransaction)
 
 
 #Result Verification
-print("\n \n \n Transaction Completed:)
+print("\n \n \n Transaction Completed:")
 print("\n QUICK SUMMARY : \nAmount of ETH used ", ethAmount, "ETH")
 print("\n Amount of GAS used :", priceOfGas, "GWEI")
 print("Check Etherscan to verify with this Transaction Hash:" ,web3.toHex(tx_token))
