@@ -6,7 +6,11 @@ MAKE SURE YOU:
 1) Input your wallet address in Line 12 
 2) Input your private key in Line 72
 
-IMPORTANT:
+
+
+
+WARNING:
+
 a. IF A NOOB, USE THIS ON A METAMASK WALLET WITH MINIMAL FUNDS
 
 b. DO NOT SHARE YOUR PRIVATE KEY
